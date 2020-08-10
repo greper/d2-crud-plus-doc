@@ -1,0 +1,14 @@
+{
+  "name": "d2-crud-plus-docs",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greper/d2-crud-plus-docs.git"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "gitacp": "git add -A . &&  git commit -m publish && git push "
+  },
+  "version": "1.0.0"
+}
